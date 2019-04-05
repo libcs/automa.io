@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>AutomaEx.Facebook</id>
+    <version>1.0.4</version>
+    <title>AutomaEx.Facebook</title>
+    <authors>DEG</authors>
+    <owners>DEG</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains an light framework for Automation.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>selenium</tags>
+    <language>en-US</language>
+    <dependencies>
+      <group>
+        <dependency id="AutomaEx" version="1.0.3" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="_build\4.0\AutomaEx.Facebook.dll" target="lib\net40" />
+    <file src="_build\4.0\AutomaEx.Facebook.pdb" target="lib\net40" />
+    <file src="_build\4.0\AutomaEx.Facebook.xml" target="lib\net40" />
+    <file src="_build\4.5\AutomaEx.Facebook.dll" target="lib\net45" />
+    <file src="_build\4.5\AutomaEx.Facebook.pdb" target="lib\net45" />
+    <file src="_build\4.5\AutomaEx.Facebook.xml" target="lib\net45" />
+  </files>
+</package>

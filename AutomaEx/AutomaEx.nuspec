@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>AutomaEx</id>
+    <version>1.0.3</version>
+    <title>AutomaEx</title>
+    <authors>DEG</authors>
+    <owners>DEG</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains an light framework for Automation.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>selenium</tags>
+    <language>en-US</language>
+    <dependencies>
+      <group>
+        <dependency id="Selenium.WebDriver" version="3.4.0" />
+        <dependency id="Selenium.WebDriver.ChromeDriver" version="2.29.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="_build\4.0\AutomaEx.dll" target="lib\net40" />
+    <file src="_build\4.0\AutomaEx.pdb" target="lib\net40" />
+    <file src="_build\4.0\AutomaEx.xml" target="lib\net40" />
+    <file src="_build\4.5\AutomaEx.dll" target="lib\net45" />
+    <file src="_build\4.5\AutomaEx.pdb" target="lib\net45" />
+    <file src="_build\4.5\AutomaEx.xml" target="lib\net45" />
+  </files>
+</package>

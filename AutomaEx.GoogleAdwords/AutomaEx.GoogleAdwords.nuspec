@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>AutomaEx.GoogleAdwords</id>
+    <version>1.0.3</version>
+    <title>AutomaEx.GoogleAdwords</title>
+    <authors>DEG</authors>
+    <owners>DEG</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains an light framework for Automation.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>selenium</tags>
+    <language>en-US</language>
+    <dependencies>
+      <group>
+        <dependency id="AutomaEx" version="1.0.3" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="_build\4.0\AutomaEx.GoogleAdwords.dll" target="lib\net40" />
+    <file src="_build\4.0\AutomaEx.GoogleAdwords.pdb" target="lib\net40" />
+    <file src="_build\4.0\AutomaEx.GoogleAdwords.xml" target="lib\net40" />
+    <file src="_build\4.5\AutomaEx.GoogleAdwords.dll" target="lib\net45" />
+    <file src="_build\4.5\AutomaEx.GoogleAdwords.pdb" target="lib\net45" />
+    <file src="_build\4.5\AutomaEx.GoogleAdwords.xml" target="lib\net45" />
+  </files>
+</package>
